@@ -3,7 +3,7 @@
 ## Encode
 
 * coinType
-  * undefined coinType sets as testnet
+  * undefined coinType sets as bitcoinTestnet
   * ***DONE*** unknown coinType throws error (Unknown coin type)
 * payment hash
   * ***DONE*** missing payment hash throws error (Lightning Payment Request needs a payment hash)

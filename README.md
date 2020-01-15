@@ -1,10 +1,13 @@
 # bolt11
+
+[![Version](https://img.shields.io/npm/v/@boltz/bolt11.svg)](https://www.npmjs.org/package/@boltz/bolt11)
+
 A library for encoding and decoding lightning network payment requests as defined in [BOLT #11](https://github.com/lightningnetwork/lightning-rfc/blob/master/11-payment-encoding.md).
 
 
 ## Installation
 ``` bash
-npm install bolt11
+npm install @boltz/bolt11
 ```
 
 ## Setup

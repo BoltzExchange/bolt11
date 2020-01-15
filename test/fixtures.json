@@ -131,7 +131,7 @@
     "invalid": [
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "complete": false,
           "satoshis": null,
           "millisatoshis": null,
@@ -156,7 +156,7 @@
       },
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "complete": false,
           "satoshis": null,
           "millisatoshis": null,
@@ -185,7 +185,7 @@
       },
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "complete": false,
           "satoshis": null,
           "millisatoshis": null,
@@ -215,7 +215,7 @@
       {
         "data": {
           "satoshis": 12,
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -266,7 +266,7 @@
       },
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "recoveryFlag": 1,
           "signature": "6249c3a38d2a7d78f54f5494cf79fa06949e11eaf26ede32158f8a8e796ba1b741e88c35bec6bf5ee8291a5d50a7d35549e7fc564f7d0a39d1db5f098a0d179a",
           "tags": [
@@ -288,7 +288,7 @@
       },
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "tags": [
             {
               "tagName": "description",
@@ -300,7 +300,7 @@
       },
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -313,7 +313,7 @@
       },
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "payeeNodeKey": "03000102030405060708090001020304050607080900010203040506070809ffff",
           "tags": [
             {
@@ -334,7 +334,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -356,7 +356,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -378,7 +378,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -400,7 +400,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -422,7 +422,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -442,7 +442,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -470,7 +470,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -498,7 +498,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -526,7 +526,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -554,7 +554,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -582,7 +582,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -602,7 +602,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -622,7 +622,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "tags": [
             {
               "tagName": "payment_hash",
@@ -638,7 +638,7 @@
       },
       {
         "data": {
-          "coinType": "bitcoin",
+          "coinType": "bitcoinMainnet",
           "satoshis": 23,
           "millisatoshis": "23000",
           "timestamp": 1496314658,
@@ -662,7 +662,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "satoshis": null,
           "millisatoshis": null,
           "timestamp": 1496314658,
@@ -693,7 +693,7 @@
       },
       {
         "data": {
-          "coinType": "testnet",
+          "coinType": "bitcoinTestnet",
           "satoshis": 100,
           "millisatoshis": "200000",
           "tags": [
@@ -715,7 +715,7 @@
     "valid": [
       {
         "paymentRequest": "lnbc1pvjluezpp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqdpl2pkx2ctnv5sxxmmwwd5kgetjypeh2ursdae8g6twvus8g6rfwvs8qun0dfjkxaq8rkx3yf5tcsyz3d73gafnh3cax9rn449d9p5uxz9ezhhypd0elx87sjle52x86fux2ypatgddc6k63n7erqz25le42c4u4ecky03ylcqca784w",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc",
         "complete": true,
         "satoshis": null,
@@ -739,7 +739,7 @@
       },
       {
         "paymentRequest": "lnbc2500u1pvjluezpp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqdq5xysxxatsyp3k7enxv4jsxqzpuaztrnwngzn3kdzw5hydlzf03qdgm2hdq27cqv3agm2awhz5se903vruatfhq77w3ls4evs3ch9zw97j25emudupq63nyw24cg27h2rspfj9srp",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc2500u",
         "complete": true,
         "satoshis": 250000,
@@ -769,7 +769,7 @@
       },
       {
         "paymentRequest": "lnbc20m1pvjluezpp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqhp58yjmdan79s6qqdhdzgynm4zwqd5d7xmw5fk98klysy043l2ahrqscc6gd6ql3jrc5yzme8v4ntcewwz5cnw92tz0pc8qcuufvq7khhr8wpald05e92xw006sq94mg8v2ndf4sefvf9sygkshp5zfem29trqq2yxxz7",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc20m",
         "complete": true,
         "satoshis": 2000000,
@@ -793,7 +793,7 @@
       },
       {
         "paymentRequest": "lntb20m1pvjluezhp58yjmdan79s6qqdhdzgynm4zwqd5d7xmw5fk98klysy043l2ahrqspp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqfpp3x9et2e20v6pu37c5d9vax37wxq72un98kmzzhznpurw9sgl2v0nklu2g4d0keph5t7tj9tcqd8rexnd07ux4uv2cjvcqwaxgj7v4uwn5wmypjd5n69z2xm3xgksg28nwht7f6zspwp3f9t",
-        "coinType": "testnet",
+        "coinType": "bitcoinTestnet",
         "prefix": "lntb20m",
         "complete": true,
         "satoshis": 2000000,
@@ -825,7 +825,7 @@
       },
       {
         "paymentRequest": "lnbc20m1pvjluezpp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqhp58yjmdan79s6qqdhdzgynm4zwqd5d7xmw5fk98klysy043l2ahrqsfpp3qjmp7lwpagxun9pygexvgpjdc4jdj85fr9yq20q82gphp2nflc7jtzrcazrra7wwgzxqc8u7754cdlpfrmccae92qgzqvzq2ps8pqqqqqqpqqqqq9qqqvpeuqafqxu92d8lr6fvg0r5gv0heeeqgcrqlnm6jhphu9y00rrhy4grqszsvpcgpy9qqqqqqgqqqqq7qqzqj9n4evl6mr5aj9f58zp6fyjzup6ywn3x6sk8akg5v4tgn2q8g4fhx05wf6juaxu9760yp46454gpg5mtzgerlzezqcqvjnhjh8z3g2qqdhhwkj",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc20m",
         "complete": true,
         "satoshis": 2000000,
@@ -876,7 +876,7 @@
       },
       {
         "paymentRequest": "lnbc20m1pvjluezhp58yjmdan79s6qqdhdzgynm4zwqd5d7xmw5fk98klysy043l2ahrqspp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqfppj3a24vwu6r8ejrss3axul8rxldph2q7z9kmrgvr7xlaqm47apw3d48zm203kzcq357a4ls9al2ea73r8jcceyjtya6fu5wzzpe50zrge6ulk4nvjcpxlekvmxl6qcs9j3tz0469gq5g658y",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc20m",
         "complete": true,
         "satoshis": 2000000,
@@ -908,7 +908,7 @@
       },
       {
         "paymentRequest": "lnbc20m1pvjluezhp58yjmdan79s6qqdhdzgynm4zwqd5d7xmw5fk98klysy043l2ahrqspp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqfppqw508d6qejxtdg4y5r3zarvary0c5xw7kepvrhrm9s57hejg0p662ur5j5cr03890fa7k2pypgttmh4897d3raaq85a293e9jpuqwl0rnfuwzam7yr8e690nd2ypcq9hlkdwdvycqa0qza8",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc20m",
         "complete": true,
         "satoshis": 2000000,
@@ -940,7 +940,7 @@
       },
       {
         "paymentRequest": "lnbc20m1pvjluezhp58yjmdan79s6qqdhdzgynm4zwqd5d7xmw5fk98klysy043l2ahrqspp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqfp4qrp33g0q5c5txsp9arysrx4k6zdkfs4nce4xj0gdcccefvpysxf3q28j0v3rwgy9pvjnd48ee2pl8xrpxysd5g44td63g6xcjcu003j3qe8878hluqlvl3km8rm92f5stamd3jw763n3hck0ct7p8wwj463cql26ava",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc20m",
         "complete": true,
         "satoshis": 2000000,
@@ -972,7 +972,7 @@
       },
       {
         "paymentRequest": "lnbc1230p1pwpw4vhpp5qqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqqqsyqcyq5rqwzqfqypqdq8w3jhxaqxqrrsscqpfmmcvd29nucsnyapspmkpqqf65uedt4zvhqkstelrgyk4nfvwka38c3nlq06agjmazs9nr3uupxp6r0v0gzw4n26redc36urkqwxamqqqu7esys",
-        "coinType": "bitcoin",
+        "coinType": "bitcoinMainnet",
         "prefix": "lnbc1230p",
         "complete": true,
         "millisatoshis": "123",

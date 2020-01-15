@@ -247,7 +247,8 @@ tape(`can decode unknown network payment request`, (t) => {
     '5ldq6',
     network
   )
+  console.log(decoded);
   t.ok(decoded.complete === true)
-  t.ok(decoded.coinType === 'unknown')
+  t.ok(decoded.coinType === 'bitcoinSimnet')
   t.end()
 })
